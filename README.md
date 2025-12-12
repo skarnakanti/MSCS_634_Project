@@ -27,10 +27,10 @@ The core modeling phase involved building classifiers to predict the binary subs
 The final phase consolidated all findings into strategic business recommendations. This included strategies for targeting specific demographics and optimizing call frequencies. Ethical considerations regarding algorithmic fairness and data privacy were also addressed to ensure responsible deployment of the models.
 
 ### Repository Structure
-**MSCS_634_Project.ipynb:** The consolidated Jupyter Notebook containing all code for data cleaning, EDA, regression, classification, clustering, and association rule mining.
-**bank_marketing_clean_baseline.csv:** The processed dataset used for modeling.
-**Project_Report.pdf:** The comprehensive written report detailing methodology, results, and recommendations.
-**Presentation_Slides:** The slides used for the video presentation.
+  - **MSCS_634_Project.ipynb:** The consolidated Jupyter Notebook containing all code for data cleaning, EDA, regression, classification, clustering, and association rule mining.
+  - **bank_marketing_clean_baseline.csv:** The processed dataset used for modeling.
+  - **Project_Report.pdf:** The comprehensive written report detailing methodology, results, and recommendations.
+  - **Presentation_Slides:** The slides used for the video presentation.
 
 ### Findings
 **Best Model:** The Tuned Random Forest Classifier provided the most reliable predictions, significantly reducing false positives compared to other models.
