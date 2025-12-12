@@ -33,10 +33,10 @@ The final phase consolidated all findings into strategic business recommendation
   - **Presentation_Slides:** The slides used for the video presentation.
 
 ### Findings
-**Best Model:** The Tuned Random Forest Classifier provided the most reliable predictions, significantly reducing false positives compared to other models.
-**Customer Segments:** Clustering revealed three primary groups comprising cold leads, standard clients, and high propensity targets.
-**Strategic Insight:** Association rules highlighted that technicians with professional course education form a distinct and responsive demographic.
-**Campaign Efficiency:** Analysis showed that increasing contact frequency beyond a certain point yields diminishing returns, suggesting a cap on the number of calls per client.
+  - **Best Model:** The Tuned Random Forest Classifier provided the most reliable predictions, significantly reducing false positives compared to other models.
+  - **Customer Segments:** Clustering revealed three primary groups comprising cold leads, standard clients, and high propensity targets.
+  - **Strategic Insight:** Association rules highlighted that technicians with professional course education form a distinct and responsive demographic.
+  - **Campaign Efficiency:** Analysis showed that increasing contact frequency beyond a certain point yields diminishing returns, suggesting a cap on the number of calls per client.
 
 ### Technologies Used
   - Python
